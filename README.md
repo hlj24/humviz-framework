@@ -1,0 +1,2 @@
+# humviz-framework
+Visualization offers a significant opportunity for humanities students to develop digital visual literacies through exploratory making, analysis, and storytelling. Yet incorporating digital visualization components into teaching depends upon instructors’ course content and access to expertise, time, and tools. A scalable, replicable approach is needed to support visualization pedagogies that can be implemented in diverse educational environments.
