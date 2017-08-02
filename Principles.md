@@ -10,18 +10,23 @@ Engage students critically with the digital and visual methods by which they are
 
 In order to critique both the process and the product, students must cultivate literacies beyond the written word. They must be able to critically engage information systems, visualization and design, and other meta-literacies. Building these literacies into the learning goals and evaluation ensure that they will be able to present well-researched and well-thought-out digital humanities analysis/critique.<sup>2</sup>
 
-* _Supports Accessibility, Scalability, Replicability, and Extensibility;_<sup>3</sup>
+* _Supports Accessibility, Scalability, Replicability, and Extensibility;_
 
 Aaron Mauro writes, 
 
-> “The undergraduate digital humanities project must emphasize iterability, openness, > and extensibility. These projects must be large enough to accommodate an entire class or > even generations of cohorts. Research goals must be tokenized into assignment-like > tasks that can be repeated and integrated into an aggregated whole, while also > fulfilling curricular goals and maintaining appropriate attribution.”
+> “The undergraduate digital humanities project must emphasize iterability, openness, and extensibility. These projects must be large enough to accommodate an entire class or even generations of cohorts. Research goals must be tokenized into assignment-like tasks that can be repeated and integrated into an aggregated whole, while also fulfilling curricular goals and maintaining appropriate attribution.”<sup>3</sup>
 
+* _Promotes a Collaborative Environment;_
 
-* _Promotes a Collaborative Environment;_<sup>4</sup>
+How often do we complete a digital humanities project without seeking out someone else’s expertise? The multiple literacies and skills required to create a digital project requires collaboration. These collaborations foster experimentation, knowledge sharing, and play that directly contribute to a project’s success.<sup>4</sup>
 
 * _Familiarizes Students with (Digital) Research & Scholarship Practices;_<sup>5</sup>
 
-* _Encourages Open Engagement with Audiences beyond the Classroom._<sup>6</sup>
+
+
+* _Encourages Open Engagement with Audiences beyond the Classroom._
+
+> Again, Mauro writes, “Students are able to make their course work more meaningful by imagining the potential to reach outside of the isolated scholarly tradition of honing their individual talent.”<sup>6</sup> Not only are we drawing interesting audiences when we create public scholarship but for students we are also creating a sense of accomplishment: they can see concrete impacts of their work in both digital and physical spaces.
 
 ## Footnotes
 <sup>[1]</sup> Tanya Clement, “Multiliteracies in the Undergraduate Digital Humanities Curriculum: Skills, Principles, and Habits of Mind,” _Digital Humanities Pedagogy_, ed. Brett D. Hirsch. Open Book Publishers, 2012. 366.
