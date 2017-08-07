@@ -26,7 +26,9 @@ We can put digital methodologies and literacies into practice not only by creati
 
 * _Encourages Open Engagement with Audiences beyond the Classroom._
 
-> Again, Mauro writes, “Students are able to make their course work more meaningful by imagining the potential to reach outside of the isolated scholarly tradition of honing their individual talent.”<sup>6</sup> Not only are we drawing interesting audiences when we create public scholarship but for students we are also creating a sense of accomplishment: they can see concrete impacts of their work in both digital and physical spaces.
+Again, Mauro writes,
+
+> “Students are able to make their course work more meaningful by imagining the potential to reach outside of the isolated scholarly tradition of honing their individual talent.”<sup>6</sup> Not only are we drawing interesting audiences when we create public scholarship but for students we are also creating a sense of accomplishment: they can see concrete impacts of their work in both digital and physical spaces.
 
 ## Footnotes
 <sup>[1]</sup> Tanya Clement, “Multiliteracies in the Undergraduate Digital Humanities Curriculum: Skills, Principles, and Habits of Mind,” _Digital Humanities Pedagogy_, ed. Brett D. Hirsch. Open Book Publishers, 2012. 366.
