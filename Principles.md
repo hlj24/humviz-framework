@@ -3,7 +3,7 @@ The principles offered in this framework form a foundation on which project-base
 ## Principles:
 
 * _Values Digital Creation Process as part of Humanities Knowledge Production;_
-	
+
 Engage students critically with the digital and visual methods by which they are collecting, analyzing, and presenting humanities research. Ask them to present an argument for why they chose (a) particular method(s), to acknowledge inevitable tensions between humanities research & scholarship and digital methodologies/tools, and to explain how they addressed those tensions in their project.<sup>1</sup>
 
 * _Develops Digital, Information, Visual, and/or Meta- Literacies;_
@@ -12,7 +12,7 @@ In order to critique both the process and the product, students must cultivate l
 
 * _Supports Accessibility, Scalability, Replicability, and Extensibility;_
 
-Aaron Mauro writes, 
+Aaron Mauro writes,
 
 > “The undergraduate digital humanities project must emphasize iterability, openness, and extensibility. These projects must be large enough to accommodate an entire class or even generations of cohorts. Research goals must be tokenized into assignment-like tasks that can be repeated and integrated into an aggregated whole, while also fulfilling curricular goals and maintaining appropriate attribution.”<sup>3</sup>
 
@@ -22,7 +22,7 @@ How often do we complete a digital humanities project without seeking out someon
 
 * _Familiarizes Students with (Digital) Research & Scholarship Practices;_<sup>5</sup>
 
-
+We can put digital methodologies and literacies into practice not only by creating "research based learning" opportunities within visualization assignments but also by encouraging students to develop a "vocabulary to assess" digital scholarship, or a lens with which to critique both their own scholarship and that of others.
 
 * _Encourages Open Engagement with Audiences beyond the Classroom._
 
