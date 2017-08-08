@@ -109,13 +109,13 @@ Balance areas of knowledge
 * How will students focusing on only skill-based, analytical, or content knowledge be graded in comparison to their peers?
 
 ### Outputs
-Final assignment description
-Bibliography & source repository
-Project pipeline
-Tutorials
-Sample project
-Modified syllabus
-Detailed grading rubric
+* Final assignment description
+* Bibliography & source repository
+* Project pipeline
+* Tutorials
+* Sample project
+* Modified syllabus
+* Detailed grading rubric
 
 ## Footnotes
 <sup>[1]</sup> Category definitions derived from January 2016 workshop, "What's your question? Designing Digital Historical Research" co-facilitated with Brian Norberg at Duke University.
