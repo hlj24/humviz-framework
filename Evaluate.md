@@ -1,13 +1,13 @@
 ## Evaluate Pedagogical Principles & Resources
 
-### Resources
+### [Resources](https://github.com/hlj24/humviz-framework/blob/master/Resources.md)
 * Institutional Support
 * Expertise
 * Time
 * Tools
 * Funding
 
-### Principles
+### [Principles](https://github.com/hlj24/humviz-framework/blob/master/Principles.md)
 * Creation Process as Knowledge Production
 * Digital, Information, Visual, and/or Meta-literacies
 * Accessibility, Scalability,  Replicability, & Extensibility
