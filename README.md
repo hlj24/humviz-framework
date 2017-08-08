@@ -8,6 +8,11 @@ In 2010, Tanya Clement conducted a survey, "Designing for Digital Literacy," in 
 
 For those looking for ways into the digital humanities, those whose work primarily occurs in the classroom, those who are new to humanities visualization, how can they, too, join in? While many have built their programs one assignment at a time, might we share across institutions and geographies in a process of assignment and course design that enables as many teachers and students as possible to engage in visualization as alternative forms of humanities knowledge production and presentation?<sup>4</sup> Following this framework, instructors can shape project ideas into assignments suitable to multiple contexts. It matches digital methods and resources with pedagogical goals, course content, and visualization concepts by guiding instructors through an iterative planning process.
 
+## Outline
+[Envision](https://github.com/hlj24/humviz-framework/blob/master/Envision.md)
+[Evaluate](https://github.com/hlj24/humviz-framework/blob/master/Evaluate.md)
+[Design](https://github.com/hlj24/humviz-framework/blob/master/Design.md)
+
 ## Contributions
 This framework is in its infancy and needs feedback to mature. Please consider contributing by commenting on the work published here; forking it and building out a framework that suits your institution, discipline, and cultural context; and sharing it with your teaching communities.
 
