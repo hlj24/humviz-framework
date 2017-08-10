@@ -1,5 +1,5 @@
 # A Framework for Teaching & Learning Humanities through Visualization
-http://bit.ly/humviz-framework
+http://bit.ly/humviz-framework | [DH2017 Poster](https://github.com/hlj24/humviz-framework/blob/master/DH2017_poster_PRINT.pdf)
 
 Points, lines, polygons, and pixels, the primary elements of digital visualization, can be arranged and rearranged to present infinite interpretations of space, time, objects, or patterns. Visualization offers a significant opportunity for humanities students to develop digital visual literacies<sup>[1]</sup> through exploratory making, analysis, and storytelling. Yet incorporating digital visualization components into teaching depends upon instructors’ course content and access to expertise, time, and tools. A scalable, replicable approach is needed to support visualization pedagogies that can be implemented in diverse educational environments. Here I propose a framework for designing and implementing visualization projects within existing courses, drawing on my instructional experience in the Wired! Lab at Duke University.
 
