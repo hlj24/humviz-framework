@@ -15,6 +15,7 @@
 * (Digital) Research & Scholarship Practices
 * Open and/or Public Engagement
 
-### Outputs
-* List of available resources & principles
-* Revised assignment description based on principles & resources
+### Revise
+* List of resources & principles
+* Mind map matching assignment goals & output(s) with resources & identifying needs
+*	Revised assignment description
