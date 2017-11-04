@@ -11,5 +11,8 @@
 * Contributes to the project’s scholarly value
 * Enhances student learning & engagement
 
-### Output
-* Draft assignment description that includes goals, question, context, output(s), and schematic rubric.
+### Outline
+* Draft assignment description 
+* Research question & context
+* Learning goals & output(s)
+* Rubric outline
